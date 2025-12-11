@@ -79,5 +79,6 @@
 <br>
 
 <p align="center">
-<a href="https://gist.github.com/beautylotus"><img src="https://profile-counter.glitch.me/beautylotus/count.svg" alt="beautylouts :: beautylotus's Count" /></a>
+<a href="https://gist.github.com/smart0303"><img src="https://komarev.com/ghpvc/?username=smart0303&label=Profile+Views&style=flat" />
+</a>
 </p>
