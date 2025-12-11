@@ -79,6 +79,6 @@
 <br>
 
 <p align="center">
-<a href="https://gist.github.com/smart0303"><img src="https://komarev.com/ghpvc/?username=smart0303&label=Profile+Views&style=flat" />
+<a href="https://gist.github.com/smart0303"><img src="https://komarev.com/ghpvc/?username=d-coder135&label=Profile%20views&color=0e75b6&style=flat" alt="d-coder135" />
 </a>
 </p>
